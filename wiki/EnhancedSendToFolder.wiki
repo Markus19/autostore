@@ -1,4 +1,4 @@
-#summary Enhanced Send To Folder
+#summary Enhanced Send To Folder Information
 
 = Introduction =
 
