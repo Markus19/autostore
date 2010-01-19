@@ -8,7 +8,8 @@ Provides additional capabilities beyond the out of the box capabilities of the b
 = Details =
 
 Features:
-*1. Automatically replace special characters* - Replaces \/:*?"<>| with the user specified characters.
+
+*1. Automatically replace special characters* - Replaces with the user specified characters.
 
 *2. Change the owner of the file* - AutoStore saves the file based on the service account.  Using this setting, AutoStore can change the owner attributes of a file based on a specified account.
 
@@ -18,13 +19,13 @@ Features:
 
 _Saving options if a file already exists_
 
-Option A *Overwrite or append*
+*A - Overwrite or append*
 
 *A1. Keep the existing owner* - This is important to keep the original file attributes and windows ACLs
 
 *A2. Merge (PDF only)* - Allows the ability to append to the start or end of the existing file
 
-Option B *Create a new version* (i.e. use a file counter)
+*B - Create a new version* (i.e. use a file counter)
 
 *B1. Prefix* - a  character in front of the file counter
 
@@ -32,4 +33,4 @@ Option B *Create a new version* (i.e. use a file counter)
 
 *B3. Pad zeros*
 
-Option C *Reject if a file exists*
+*C - Reject if a file exists*
