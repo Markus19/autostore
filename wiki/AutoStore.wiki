@@ -1,0 +1,6 @@
+#summary AutoStore SDK Wiki
+
+= Introduction =
+
+Please go to the companion website at: 
+http://sites.google.com/site/autostoresdk/
