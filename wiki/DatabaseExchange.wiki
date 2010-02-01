@@ -1,0 +1,13 @@
+#summary Details regarding the Database Exchange Components.
+
+= Introduction =
+
+A GUI component to easily perform SQL transactions using insert, update, delete, and select statements within the AutoStore workflow.
+
+= Details =
+
+*Features*
+
+- Specification of a DSN for Access or SQL (by using a DSN, administrators can access any DB on the network)
+
+- Free textbox entry to support complex joins, inserts, etc.
