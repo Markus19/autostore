@@ -1,4 +1,4 @@
-#summary AutoStore SDK Wiki
+#summary AutoStore SDK Wiki http://sites.google.com/site/autostoresdk/
 
 = Introduction =
 
