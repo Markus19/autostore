@@ -1,0 +1,1 @@
+A hosted, collaborative location to post the SDK for the product AutoStore, and a central location to share samples and provide user based support.
